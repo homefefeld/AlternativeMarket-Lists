@@ -11,6 +11,5 @@
   "NextDom/plugin-shutters",
   "NextDom/plugin-Meross",
   "NextDom/Plugin-NotifHeure",
-  "NextDom/plugin-raw_network",
-  "NextDom/plugin-Opening"
+  "NextDom/plugin-raw_network"
 ]
