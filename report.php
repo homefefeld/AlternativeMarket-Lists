@@ -133,7 +133,7 @@ if (\file_exists('.github-token')) {
   $gitHubToken = \str_replace("\n", "", $gitHubToken);
 }
 
-$reportContent = \file_get_contents('report-list.json');
+$reportContent = \file_get_contents('repositories.json');
 $reportList = \json_decode($reportContent, true);
 
 // Récupération de la liste des sources
